@@ -52,8 +52,6 @@
   ◆  Embed customization
   ◇  Auto-updater (planned)
 
-  credits
-  ◆  vexsyx — assets
 </pre>
 
 <br>
